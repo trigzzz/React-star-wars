@@ -1,0 +1,8 @@
+.starship-card-container {
+    border: 1px solid #ddd; /* Added a border */
+    margin: 10px; /* Added margin to separate each card */
+    padding: 10px; /* Added padding for better spacing inside the card */
+    border-radius: 8px; /*Added border-radius for rounded corners */
+  }
+  
+ 
